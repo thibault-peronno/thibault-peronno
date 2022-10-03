@@ -1,5 +1,5 @@
 
-# Hello, welcome o my gitHub profil
+# Hello, welcome on my gitHub profil
 
 You will find informations and different projects.
 
