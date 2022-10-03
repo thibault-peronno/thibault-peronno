@@ -33,7 +33,7 @@ You will find informations and different projects.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/thibault-peronno/"><img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/thibault-peronno/" target="_blank"><img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin"></a>
 
 
 
