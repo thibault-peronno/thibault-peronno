@@ -1,34 +1,15 @@
-
-# Hello, welcome on my github profil
-
-You will find informations and different projects.
-
-## Languages I know
-
-  ### Front-end
-
-<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<br/>
-<br/>
-<code><img height="20" alt="scss" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scss/scss.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-  ### Back-end
-
-<code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" alt="laravel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-
-## Langage I am learning
-
-<code><img height="20" alt="angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" alt="vujs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vujs/vujs.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<img height="250px" alt="html" src="https://drive.google.com/uc?id=1ef5aZOWE3a__aX2SVVHb1-xDqmNpwej0">
+<div>
+<img height="100px" width="100px" alt="html" src="https://drive.google.com/uc?id=132fUC1pebHvFNLP2WDxW_w3jSiJFSye3">
+<p style="color:green">Thibault PERONNO</p>
+<p>Développeur web full-stack</p>
+</div>
+<p>I passed my RNCP certificate of Developer Web and Web Mobile, and now I am on a work-study program in O'Clock School. I am working in company in Nice where I am using Angular and VueJs framework.
+I am already fullstack developer, but with this year as student and employee, I will improve my skills. In backend languages, I know PHP, Laravel's framework and NodeJs. This year I will pass RNCP certificate as “Concepteur et Développer d'Application”. As a designer, I know how to use UML or Merise method. I know how to use Docker. And I will improve this part of the work.
+You will find informations and different projects.</p>
 
 
-| <a href="https://github.com/Thib-numberX/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Thib-numberX&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Thib-numberX's github stats" /></a> | <a href="https://github.com/Thib-numberX/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thib-numberX&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/thibault-peronno/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thibault-peronno&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="thibault-peronno's github stats" /></a> | <a href="https://github.com/thibault-peronno/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thibault-peronno&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br/>
