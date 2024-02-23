@@ -3,7 +3,7 @@
 
 You will find informations and different projects.
 
-## Langagse I know
+## Languages I know
 
   ### Front-end
 
