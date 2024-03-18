@@ -5,7 +5,7 @@
 <p>Développeur web full-stack</p>
 </div>
 <p>I passed my RNCP certificate of Developer Web and Web Mobile. After my experince as developer web like a study, I was on a work-study program in O'Clock School. I worked in company in Nice where I used Angular and VueJs framework.
-I am fullstack developer, but with this year as student and employee, I will improve my skills. 
+I am fullstack developer, but with this year as student and employee, I improved my skills. 
 In backend languages, I know PHP, Laravel's framework and NodeJs. This year I passed RNCP certificate as “Concepteur et Développer d'Application”. 
 As a designer, I know how to use UML or Merise method. I know how to use Docker. And I will improve this part of the work.
 You will find informations and different projects.
