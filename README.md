@@ -4,7 +4,7 @@
 <p style="color:green">Thibault PERONNO</p>
 <p>Développeur web full-stack</p>
 </div>
-<h1>Les contributions ne sont pas prisent en compte depuis plusieurs mois, ce n'est pas à jour. Je vais réparer ça.</h1>
+<h1>Les contributions (des commits) ne sont pas prisent en compte depuis plusieurs mois, ce n'est pas à jour. Je vais réparer ça.</h1>
 <p>I passed my RNCP certificate of Developer Web and Web Mobile. After my experince as developer web like a study, I was on a work-study program in O'Clock School. I worked in company in Nice where I used Angular and VueJs framework.
 I am fullstack developer, but with this year as student and employee, I improved my skills. 
 In backend languages, I know PHP, Laravel's framework and NodeJs. This year I passed RNCP certificate as “Concepteur et Développer d'Application”. 
